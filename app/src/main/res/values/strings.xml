@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iLoveVideo</string>
+
+    <string name="page_title">PAGE</string>
+    <string name="back_button">BACK</string>
+    <string name="no_data">NO DATA</string>
+    <string name="no_connection">No connection</string>
+
+    <string name="population">Population</string>
+    <string name="get_country_list">Get country list</string>
+    <string name="loading">Loading...</string>
+</resources>
